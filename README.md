@@ -19,7 +19,7 @@
 
 </div>
 
-### Nota: X/20
+### Nota: 18/20
 
 <h3><i>Keywords</i></h3>
 PI, Projeto de Informática, projeto de informatica, uminho, miei, mei, engenharia informatica
